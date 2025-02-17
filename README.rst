@@ -22,7 +22,6 @@ Only matplotlib is necessary. After cloning the project, it is recomended to use
 
    ::
 
-     python -m fractal julia -0.644 --size=300x200 --depth=25 --zoom=0.6 --show
      cd fractal/
      python -m venv .
      . bin/activate
