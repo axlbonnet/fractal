@@ -19,6 +19,7 @@ Installation
 -----------
 
 Only matplotlib is necessary. After cloning the project, it is recomended to use a venv.
+Be sure to use python3. If the `python` command is python2, use the `python3` command.
 
    ::
 
